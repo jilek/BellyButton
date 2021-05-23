@@ -16,6 +16,7 @@ We helped Rosa create a dashboard so study participants as well as fellow resear
 
 Technologies Used:
 - Javascript
+- Plotly
 - Bootstrap Javascript Library
 - D3 (Data Driven Documents Javascript Library)
 - HTML / CSS
